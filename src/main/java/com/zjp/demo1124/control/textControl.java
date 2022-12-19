@@ -9,6 +9,6 @@ public class textControl {
 
     @RequestMapping(value = "/log")
     public String log(){
-        return "hello spring boot!";
+        return "hello spring boot!--222";
     }
 }
